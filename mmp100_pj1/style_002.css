@@ -1,0 +1,55 @@
+h1 {font-size:25px; font-family:黑体;}
+
+* { margin:0;
+    padding:0;
+}
+
+    
+html {
+    background-color:  #e6e9e9;
+    background-image: -webkit-linear-gradient(270deg,rgb(230,233,233) 0%,rgb(216,221,221) 100%);
+    background-image: linear-gradient(270deg,rgb(2,0,23) 0%,rgb(0,0,23) 100%);
+    -webkit-font-smoothing:antialiased;
+}    
+     
+
+body {
+    margin: 0 auto;
+    padding: 2em 5em 10em;
+    max-width: 1200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20x;
+    line-height: 1.5em;
+    color: #545454;
+    background-color: #ffffff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+}
+
+
+
+#header {
+    background-color:darkslateblue;
+    color:white;
+    text-align:left;
+    padding:15px;
+}
+#nav2 {
+    line-height:30px;
+    background-color:lightgrey;
+    height:700px;
+    width:120px;
+    float:left;
+    padding:10px; 
+}
+#section {
+    width:px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:darkslateblue;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+} 

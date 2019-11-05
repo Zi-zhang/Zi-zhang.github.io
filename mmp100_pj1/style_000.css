@@ -1,0 +1,105 @@
+h1 {font-size:25px; font-family:黑体;}
+
+* { margin:0;
+    padding:0;
+}
+
+    
+html {
+    background-color:  #e6e9e9;
+    background-image: -webkit-linear-gradient(270deg,rgb(230,233,233) 0%,rgb(216,221,221) 100%);
+    background-image: linear-gradient(270deg,rgb(2,0,23) 0%,rgb(0,0,23) 100%);
+    -webkit-font-smoothing:antialiased;
+}    
+     
+
+body {
+    margin: 0 auto;
+    padding: 2em 5em 10em;
+    max-width: 1200px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20x;
+    line-height: 1.5em;
+    color: #545454;
+    background-color: #ffffff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+}
+
+
+
+#header {
+    background-color:darkslateblue;
+    color:white;
+    text-align:left;
+    padding:15px;
+}
+#nav2 {
+    line-height:30px;
+    background-color:lightgrey;
+    height:700px;
+    width:120px;
+    float:left;
+    padding:10px; 
+}
+#section {
+    width:px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:darkslateblue;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+} 
+
+
+
+body{
+position: relative;
+height: 100%;
+background: -webkit-gradient(linear, left top, left bottom, from(#000033), to(#00CCFF));
+}
+
+
+
+.nav {
+    list-style: none;
+    display: block;
+    width: 200px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    padding: 60px 0 60px 0;
+    background: url(images/shad2.png) no-repeat;
+    -webkit-background-size: 50% 100%;
+}
+
+
+.nav3 li a {
+    -webkit-transition: all 0.3s ease-out;
+    background: #cbcbcb url(images/border.png) no-repeat;
+    color: #174867;
+    padding: 7px 15px 7px 15px;
+    -webkit-border-top-right-radius: 10px;
+     -webkit-border-bottom-right-radius: 10px;
+    width: 85px;
+    display: block;
+    text-decoration: none;
+    -webkit-box-shadow: 2px 2px 4px #888;
+}
+    
+li {
+    margin: 12.5px 0 0 0;
+}
+
+.nav3 li a:hover {
+    background: #ebebeb url(images/border.png) no-repeat;
+    color: #67a5cd;
+    padding: 7px 10px 7px 30px;
+}
+ 
+
+
+
