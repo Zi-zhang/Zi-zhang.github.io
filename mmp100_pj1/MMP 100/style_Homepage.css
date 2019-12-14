@@ -1,0 +1,33 @@
+
+
+#header {
+    background-color:darkslateblue;
+    color:white;
+    text-align:left;
+    padding:15px;
+}
+#nav2 {
+    line-height:30px;
+    background-color:lightgrey;
+    height:700px;
+    width:120px;
+    float:left;
+    padding:10px; 
+}
+#section {
+    width:px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:darkslateblue;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+} 
+
+
+
+
+
